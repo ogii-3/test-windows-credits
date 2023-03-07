@@ -9,8 +9,3 @@
       name: win/default
     steps:
       - checkout
-      
-workflows:
-  workflow1:
-    jobs:
-      - build
